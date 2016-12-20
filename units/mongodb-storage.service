@@ -1,0 +1,25 @@
+[Unit]
+Description=MongoDB Storage
+Documentation=https://docs.mongodb.org/manual/
+Requires=flanneld.service
+After=flanneld.service
+
+[Service]
+Restart=always
+RestartSec=5
+TimeoutStartSec=0
+KillMode=none
+
+ExecStartPre=/bin/sh -c "echo never > /sys/kernel/mm/transparent_hugepage/enabled"
+ExecStartPre=/bin/sh -c "echo never > /sys/kernel/mm/transparent_hugepage/defrag"
+ExecStartPre=-/usr/bin/mkdir /data/mongodb
+ExecStartPre=-/usr/bin/chmod -Rv 777 /data
+ExecStartPre=-/usr/bin/docker kill mongodb-storage
+ExecStartPre=-/usr/bin/docker rm mongodb-storage
+ExecStartPre=-/usr/bin/docker pull mxabierto/mongodb-min
+ExecStart=/usr/bin/docker run \
+  --name=mongodb-storage \
+  -v /data/mongodb:/data/db \
+  -p 27027:27017 \
+  mxabierto/mongodb-min --storageEngine=wiredTiger
+ExecStop=/usr/bin/docker stop mongodb-storage

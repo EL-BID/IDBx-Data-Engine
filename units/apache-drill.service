@@ -1,0 +1,21 @@
+[Unit]
+Description=Apache Drill
+Documentation=https://drill.apache.org/docs/
+Requires=mongodb-storage.service
+After=mongodb-storage.service
+
+[Service]
+Restart=always
+RestartSec=5
+TimeoutStartSec=0
+KillMode=none
+
+ExecStartPre=-/usr/bin/docker kill apache-drill
+ExecStartPre=-/usr/bin/docker rm apache-drill
+ExecStartPre=-/usr/bin/docker pull mxabierto/drill
+ExecStart=/usr/bin/docker run \
+  --name=apache-drill \
+  --link mongodb-storage:mongo \
+  -p 31010:31010 \
+  mxabierto/drill
+ExecStop=/usr/bin/docker stop apache-drill

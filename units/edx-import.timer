@@ -1,0 +1,9 @@
+[Unit]
+Description=Run edX Data Importer Process Daily at 8pm UTC
+
+[Timer]
+Unit=edx-import.service
+OnCalendar=*-*-* 20:00:00
+
+[Install]
+WantedBy=multi-user.target

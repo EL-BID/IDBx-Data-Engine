@@ -1,0 +1,17 @@
+{
+  "name": "edx-import",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Import S3 stored data from the edX platform",
+  "author": "Rubén Cessa <rcessa@iadb.org>",
+  "bin": {
+    "edx-import": "./edx-import.js"
+  },
+  "scripts": {
+    "build": "docker build -t iadb/edx-import ."
+  },
+  "dependencies": {
+    "commander": "=2.9.0",
+    "underscore": "=1.8.3"
+  }
+}
