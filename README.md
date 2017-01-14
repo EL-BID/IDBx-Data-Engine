@@ -7,7 +7,7 @@ Actualmente el BID dispone de más de 20 cursos masivos online (MOOCS) con los q
 La siguiente imagen muestra de manera general el proceso que siguen los datos en el sitema.
 
 ![N|Solid](https://github.com/EL-BID/edX-Data-Model/blob/master/img/Esquema%20general.png?raw=true)
-Para conocer en más detalle el proceso, leer el archivo 
+Para conocer en más detalle el proceso, leer el archivo [Detalles_del_proceso.md] (https://github.com/EL-BID/edX-Data-Model/blob/master/Detalles_del_proceso.md)
 ## Cómo instalar
 ---
 ### Preparación del ambiente de trabajo
