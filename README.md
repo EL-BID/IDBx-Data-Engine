@@ -1,4 +1,5 @@
 # ETL de datos de edX
+---
 Este repositorio sirve para llevar a cabo un proceso de Extracción Transformación y Carga (ETL) sobre los datos generados por los usuarios de la plataforma edX.
 
 Actualmente el BID dispone de más de 20 cursos masivos online (MOOCS) con los que llega a más de 400.000 personas en distintas partes del mundo. El departamento de Conocimiento y Aprendizaje utiliza el software de este repositorio para analizar los datos y mejorar cada vez más su oferta educativa.
@@ -8,6 +9,7 @@ La siguiente imagen muestra de manera general el proceso que siguen los datos en
 ![N|Solid](https://github.com/EL-BID/edX-Data-Model/blob/master/img/Esquema%20general.png?raw=true)
 Para conocer en más detalle el proceso, leer el archivo 
 ## Cómo instalar
+---
 ### Preparación del ambiente de trabajo
 Los siguientes archivos sirven para la creación e instalación de ejecutable en Docker:
 -	Dockerfile
@@ -89,6 +91,17 @@ docker exec -it bg /bin/bash
 bg && disown %1
 exit
 ```
-License
+# Más información
 ----
+# Licencia
+XXX
+# Cómo contribuir
+XXX
+# Autores
+- Rubén Cessa
+- Carlos Maher
+- Jose Luis Delgado Davara
+# Links útiles
+- http://docs.edx.org/
+- http://edx.readthedocs.io/projects/devdata/en/stable/index.html
 
