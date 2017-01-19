@@ -1,6 +1,6 @@
 # ETL de datos de edX
 ---
-Este repositorio sirve para llevar a cabo un proceso de Extracción Transformación y Carga (ETL) sobre los datos generados por los usuarios de la plataforma edX.
+Este repositorio sirve para llevar a cabo un proceso de Extracción Transformación y Carga (ETL) sobre los datos generados por los usuarios de la plataforma edX. En rasgos generales, el proceso transforma los datos contenidos de una base de datos relacional a una base de datos no relacional.
 
 Actualmente el BID dispone de más de 20 cursos masivos online (MOOCS) con los que llega a más de 400.000 personas en distintas partes del mundo. El departamento de Conocimiento y Aprendizaje utiliza el software de este repositorio para analizar los datos y mejorar cada vez más su oferta educativa.
 ## Visión general
