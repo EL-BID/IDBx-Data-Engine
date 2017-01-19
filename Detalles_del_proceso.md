@@ -18,5 +18,5 @@ Procesos escritos en lenguaje python cuya función es acceder la base de datos M
 Representación de la información en gráficos. Para esto existen diversas opciones en el mercado como Tableau, PowerBI, excel… o de desarrollo propio como librerías de R, Python…
 [Proceso no incluído en el repositorio. Para este proceso es necesario un sistema de Business Intelligence externo]
 
-![N|Solid](https://github.com/EL-BID/edX-Data-Model/blob/master/img/Esquema%20general.png?raw=true)
+![Esquema](https://github.com/EL-BID/edX-Data-Model/blob/master/img/Esquema%20general.png?raw=true)
 
