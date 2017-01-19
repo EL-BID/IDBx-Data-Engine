@@ -15,9 +15,18 @@ Procesos escritos en lenguaje python cuya función es acceder la base de datos M
 -	__Generación de colecciones generales__: Útiles para tener información agregada de todos los cursos.
 -	__Listado de usuarios activos__: Extrae un listado de todos los usuarios con el nivel de progreso de cada usuario en cada curso.
 -	__Localización mediante ip__: Localización del lugar de registro del usuario mediante la ip de registro. [En desarrollo]
+
 ### Proceso 3: 
 Representación de la información en gráficos. Para esto existen diversas opciones en el mercado como Tableau, PowerBI, excel… o de desarrollo propio como librerías de R, Python…
 [Proceso no incluído en el repositorio. Para este proceso es necesario un sistema de Business Intelligence externo]
+
+
+
+
+
+
+
+
 
 
 
