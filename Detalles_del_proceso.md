@@ -34,4 +34,17 @@ Representación de la información en gráficos. Para esto existen diversas opci
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Esquema](https://github.com/EL-BID/edX-Data-Model/blob/master/img/Esquema%20general.png?raw=true)
