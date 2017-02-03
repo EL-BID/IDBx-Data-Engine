@@ -93,15 +93,15 @@ exit
 ```
 # Más información
 ----
-# Licencia
+## Licencia
 XXX
-# Cómo contribuir
+## Cómo contribuir
 XXX
-# Autores
+## Autores
 - Rubén Cessa
 - Carlos Maher
 - Jose Luis Delgado Davara
-# Links útiles
+## Links útiles
 - http://docs.edx.org/
 - http://edx.readthedocs.io/projects/devdata/en/stable/index.html
 
