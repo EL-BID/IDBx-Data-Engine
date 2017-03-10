@@ -4,8 +4,10 @@ Este sistema extrae, analiza y consolida en una base de datos, la información d
 
 El Instituto Interamericano para el Desarrollo Económico y Social (INDES) ha desarrollado una serie de Cursos Masivos y Abiertos en Línea (MOOCs por sus siglas en inglés), que forman parte del Programa IDBx, cuyo objetivo es promover productos de conocimiento abierto relativos al desarrollo económico y social en América Latina y el Caribe. En respuesta a la necesidad de información confiable para la gestión y mejora de la toma de decisiones del programa IDBx, el INDES puso en marcha el proyecto de datos IDBx Data Engine.
 Este proceso consta de dos componentes:
-1.	Automatización del proceso de extracción, transformación y carga de los datos procedentes del paquete de información y otras fuentes proporcionadas por edX.
-2.	Análisis y creación de indicadores que sirven de insumo para visualizaciones y gráficos de monitoreo (Dashboards). Este último componente permite el seguimiento continuo del Programa IDBx, a través del análisis de variables e indicadores clave de negocio previamente seleccionadas.
+
+1. Automatización del proceso de extracción, transformación y carga de los datos procedentes del paquete de información y otras fuentes proporcionadas por edX.
+
+2. Análisis y creación de indicadores que sirven de insumo para visualizaciones y gráficos de monitoreo (Dashboards). Este último componente permite el seguimiento continuo del Programa IDBx, a través del análisis de variables e indicadores clave de negocio previamente seleccionadas.
 
 ## Visión general
 La siguiente imagen muestra de manera general el proceso que siguen los datos en el sitema.
