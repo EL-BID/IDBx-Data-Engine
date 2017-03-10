@@ -104,7 +104,6 @@ XXX
 ## Cómo contribuir
 XXX
 ## Autores
-- Rubén Cessa
 - Carlos Maher
 - Jose Luis Delgado Davara
 
