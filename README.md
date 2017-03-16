@@ -100,7 +100,7 @@ exit
 # Más información
 ----
 ## Licencia
-LICENCE
+[LICENSE](https://github.com/EL-BID/IDBx-Data-Engine/blob/master/LICENSE)
 ## Cómo contribuir
 - Integración del archivo MASTERFILE en el proceso de extracción de datos.
 ## Autores
