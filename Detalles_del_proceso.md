@@ -1,6 +1,7 @@
 Detalles del proceso
 ---
 Este proceso de ETL carga información automáticamente de un S3 de AWS proporcionado por la plataforma edX, desencripta y transforma la información para guardarla en una base de datos MongoDB. Finalmente, genera archivos .csv con los datos más desagregados y estructurados para que sirvan como insumos a cualquier herramienta de Business Intelligence. 
+https://cloud.githubusercontent.com/assets/9949001/24005651/02fc1856-0a40-11e7-8d5d-c7cbbf55f5da.png
 
 ### Proceso 1: 
 Proceso automatizado que se encarga de desencriptar los archivos provenientes de edX y poblar una base de datos MongoDB con esa información. Consta de dos partes:
@@ -56,4 +57,3 @@ Representación de la información en gráficos. Para esto existen diversas opci
 
 
 
-![Esquema](https://github.com/EL-BID/edX-Data-Model/blob/master/img/Esquema%20general.png?raw=true)
