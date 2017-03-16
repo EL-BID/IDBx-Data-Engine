@@ -9,7 +9,7 @@ ExecStart=/usr/bin/docker run \
 --name edx-import \
 --env AWS_ACCESS_KEY_ID=XXXXXXXXXX \
 --env AWS_SECRET_ACCESS_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXX \
---env KEY_PASSPHRASE="Amagarros y Medizos que 2 te p'un y etepar" \
+--env KEY_PASSPHRASE="???????????????????????????????" \
 --env STORAGE_DB=edx \
 --link mongodb-storage:storage \
 iadb/edx-import
