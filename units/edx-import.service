@@ -7,8 +7,8 @@ ExecStartPre=-/usr/bin/docker kill edx-import
 ExecStartPre=-/usr/bin/docker rm edx-import
 ExecStart=/usr/bin/docker run \
 --name edx-import \
---env AWS_ACCESS_KEY_ID= ***REMOVED***\
---env AWS_SECRET_ACCESS_KEY= ***REMOVED***\
+--env AWS_ACCESS_KEY_ID=XXXXXXXXXX \
+--env AWS_SECRET_ACCESS_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXX \
 --env KEY_PASSPHRASE="Amagarros y Medizos que 2 te p'un y etepar" \
 --env STORAGE_DB=edx \
 --link mongodb-storage:storage \
