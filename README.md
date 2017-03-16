@@ -99,6 +99,14 @@ exit
 ```
 # Más información
 ----
+## Evaluación de calidad
+De acuerdo al sistema de evaluación de software definido en la guía de ciclo de vida de desarrollo de software, esta herramienta ha obtenido la siguiente evaluación en los siguientes ámbitos:
+* Blocker issues: 8 (> 0) **Low**
+* Duplicated lines: 43.2% (> 25%) **Low**
+* Critical issues: 0 (< 0) **Hard**
+* Technical debt: 2d (< 10d) **Hard**
+Más información en [este link.](https://el-bid.github.io/software-life-cycle-guide/delivery/evaluation-matrix/) 
+
 ## Licencia
 [LICENSE](https://github.com/EL-BID/IDBx-Data-Engine/blob/master/LICENSE)
 ## Cómo contribuir
