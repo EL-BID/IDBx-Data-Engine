@@ -100,11 +100,11 @@ exit
 # Más información
 ----
 ## Licencia
-XXX
+LICENCE
 ## Cómo contribuir
-XXX
+- Integración del archivo MASTERFILE en el proceso de extracción de datos.
 ## Autores
-- Carlos Macher Barcenas
+- [Carlos Macher Barcenas](carlosm@iadb.org)
 - [Jose Luis Delgado Davara](https://twitter.com/JLdelda)
 - Otros colaboradores
 
