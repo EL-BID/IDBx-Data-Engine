@@ -13,7 +13,7 @@ Este proceso consta de dos componentes:
 La siguiente imagen muestra de manera general el proceso que siguen los datos en el sitema.
 
 ![N|Solid](https://cloud.githubusercontent.com/assets/9949001/24005651/02fc1856-0a40-11e7-8d5d-c7cbbf55f5da.png)
-Para conocer en más detalle el proceso, leer el archivo [Detalles_del_proceso.md] (https://github.com/EL-BID/edX-Data-Model/blob/master/Detalles_del_proceso.md)
+Para conocer en más detalle el proceso, leer el archivo [Detalles_del_proceso.md](https://github.com/EL-BID/edX-Data-Model/blob/master/Detalles_del_proceso.md)
 ## Cómo instalar
 ---
 ### Preparación del ambiente de trabajo
@@ -104,8 +104,9 @@ XXX
 ## Cómo contribuir
 XXX
 ## Autores
-- Carlos Maher
-- Jose Luis Delgado Davara
+- Carlos Macher Barcenas
+- [Jose Luis Delgado Davara](https://twitter.com/JLdelda)
+- Otros colaboradores
 
 ## Links útiles
 - http://docs.edx.org/
