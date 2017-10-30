@@ -1,3 +1,5 @@
+*Esta herramienta digital está publicada en la iniciativa [Código para el Desarrollo](http://code.iadb.org/es/repositorio/15/idbx-data-engine)*
+
 # IDBx Data Engine
 ---
 Este sistema extrae, analiza y consolida en una base de datos, la información de los cursos masivos y abiertos en línea del Programa IDBx, contenida en el paquete de información generada por la plataforma tecnológica edX, en donde se imparten dichos cursos.
@@ -99,15 +101,6 @@ exit
 ```
 # Más información
 ----
-## Evaluación de calidad
-De acuerdo al sistema de evaluación de software definido en la guía de ciclo de vida de desarrollo de software, esta herramienta ha obtenido la siguiente evaluación en los siguientes ámbitos:
-* Blocker issues: 8 (> 0) **Low**
-* Duplicated lines: 43.2% (> 25%) **Low**
-* Critical issues: 0 (< 0) **Hard**
-* Technical debt: 2d (< 10d) **Hard**
-
-Más información en [este link.](https://el-bid.github.io/software-life-cycle-guide/delivery/evaluation-matrix/) 
-
 ## Licencia
 [LICENSE](https://github.com/EL-BID/IDBx-Data-Engine/blob/master/LICENSE)
 
