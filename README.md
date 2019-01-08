@@ -106,10 +106,13 @@ exit
 
 ## Cómo contribuir
 - Integración del archivo MASTERFILE en el proceso de extracción de datos.
-## Autores
+## Autores y Colaboradores
 - [Carlos Macher Barcenas](mailto:carlosm@iadb.org)
-- [Jose Luis Delgado Davara](https://twitter.com/JLdelda)
-- Otros colaboradores
+- [Jose Luis Delgado Davara]
+- [Melvyn Gomez] 
+- [Julián Rivera] 
+- [Ruben Cessa] 
+- [Edison Esquinas]
 
 ## Links útiles
 - http://docs.edx.org/
