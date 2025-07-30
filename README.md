@@ -1,4 +1,4 @@
-*Esta herramienta digital está publicada en página web de la iniciativa [Código para el Desarrollo](http://code.iadb.org/es/repositorio/15/idbx-data-engine)*
+*Esta herramienta digital está publicada en página web de la iniciativa [Código para el Desarrollo](https://knowledge.iadb.org/es/codigo-para-el-desarrollo/soluciones-de-codigo-abierto/idbx-data-engine)*
 
 # IDBx Data Engine
 ---
