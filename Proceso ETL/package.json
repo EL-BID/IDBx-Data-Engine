@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "commander": "=2.9.0",
-    "underscore": "=1.8.3"
+    "underscore": "=1.13.8"
   }
 }
